@@ -14,7 +14,7 @@ const preguntas = [
       },
       {
           value: 2,
-          name: `${'2.'.green} Listar tarea`
+          name: `${'2.'.green} Historial`
       },
       {
         value: 0,
